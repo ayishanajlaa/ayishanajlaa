@@ -27,7 +27,7 @@ I am a senior full-stack developer with expertise in React.js, Node.js, Vue.js, 
 
 ## Languages and Tools
 
-<div align="center" style="margin: 40px 0;">
+<div style="height: 100px; margin: 40px auto; text-align: center;">
   <a href="https://reactjs.org/" target="_blank">
     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   </a>
