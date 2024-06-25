@@ -62,19 +62,7 @@ I am a senior full-stack developer with expertise in React.js, Node.js, Vue.js, 
 
 <br/>
 
-## Most Used Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayishanajlaa&layout=compact" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayishanajlaa&&style=flat-square" alt="Profile views counter" />
-</div>
-
-<br/>
 
 ----
 
