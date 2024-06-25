@@ -27,7 +27,7 @@ I am a senior full-stack developer with expertise in React.js, Node.js, Vue.js, 
 
 ## Languages and Tools
 
-<div align="center">
+<div align="center" style="margin: 40px 0;">
   <a href="https://reactjs.org/" target="_blank">
     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   </a>
@@ -78,4 +78,3 @@ I am a senior full-stack developer with expertise in React.js, Node.js, Vue.js, 
 
 ----
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
