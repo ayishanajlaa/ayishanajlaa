@@ -62,6 +62,8 @@ I am a senior full-stack developer with expertise in React.js, Node.js, Vue.js, 
 
 <br/>
 
+## Most Used Languages
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayishanajlaa&layout=compact" alt="Top Languages" />
 </div>
@@ -76,3 +78,4 @@ I am a senior full-stack developer with expertise in React.js, Node.js, Vue.js, 
 
 ----
 
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
